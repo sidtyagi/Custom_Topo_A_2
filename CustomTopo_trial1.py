@@ -1,11 +1,6 @@
 #!/usr/bin/python
 '''
-Coursera:
-- Software Defined Networking (SDN) course
--- Programming Assignment 2
-
-Professor: Nick Feamster
-Teaching Assistant: Arpit Gupta, Muhammad Shahbaz
+--added all host ping
 '''
 
 from mininet.topo import Topo
